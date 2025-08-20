@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Khalid Hamza
 
 <!-- Profile Banner -->
-<p align="center">
+<!--<p align="center">
   <img src="https://raw.githubusercontent.com/khalidhamza/khalidhamza/main/assets/profile-banner.png" alt="Khalid Hamza Profile Banner" width="800"/>
-</p>
+</p> -->
 
 Welcome to my GitHub! I'm Khalid, a passionate software engineer, creative technologist, and lifelong learner. My journey blends code, design, and imagination to craft magical digital experiences.
 
