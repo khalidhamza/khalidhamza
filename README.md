@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm Khalid, a passionate software engineer, creative techn
 ## 🧙‍♂️ About Me
 
 - 🌍 From: Somewhere between code and creativity
-- 💻 Day job: Software Engineer & Digital Alchemist
+- 💻 Day job: Software Engineer
 - 🧠 Interests: Web technologies, AI, open-source, creative coding, digital art, and building tools for dreamers
 - 🚀 Mission: To conjure delightful, meaningful, and accessible software for all
 
